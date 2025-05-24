@@ -1,0 +1,2 @@
+C:\Users\Andreas\Documents\TraderValidator\bin\Release\net9.0\win-x64\publish\TraderValidator.pdb
+C:\Users\Andreas\Documents\TraderValidator\bin\Release\net9.0\win-x64\publish\TraderValidator.exe
