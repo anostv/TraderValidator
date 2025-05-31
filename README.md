@@ -10,3 +10,6 @@ Also works on the different trader .txt files if you have split them up in categ
 
 ### PASSED
 ![2](https://github.com/user-attachments/assets/d0c05d36-66df-474d-bf3c-8e06894b79a5)
+
+
+Web version can be found here [TraderValidator](https://itscapp.eu/trader-validator.html)
